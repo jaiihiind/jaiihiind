@@ -16,5 +16,12 @@ Here are some ideas to get you started:
 -->
 
 
+<p align="center">
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=jaiihiind&theme=algolia&bg_color=232a)](https://git.io/streak-stats)
+</p>
+
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=jaiihiind&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
+
+
