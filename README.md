@@ -1,7 +1,7 @@
+
 <h1 align="center">Hi 👋, I'm Rishav Ray</h1>
-<h3 align="center">A passionate Defence Aspirant from India</h3>
-
-
+<h2 align="center">A passionate Defence Aspirant from India</h2>
+<img align="right" alt="Coding" width="400" src="https://www.capgemini.com/au-en/wp-content/uploads/sites/9/2019/06/AI-and-ML.gif">
 
 - 🔭 I’m currently working on **Competitive Programming**
 
@@ -29,6 +29,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaiihiind&show_icons=true&locale=en&layout=compact" alt="jaiihiind" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaiihiind&show_icons=true&locale=en" alt="jaiihiind" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaiihiind&" alt="jaiihiind" /></p>
