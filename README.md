@@ -2,7 +2,7 @@
 
 
 <h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&width=435&lines=Hello+Hindustan+!;I+am+Rishav+.+.+.;%22Believe+you+can+%26+you+are+halfway+there+%22" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&width=435&lines=Hello+Hindustan+!;I+am+Rishav+.+.+.;%22You+become+what+you+Believe+%22" alt="Typing SVG" /></a>
 </h1>
 
 
