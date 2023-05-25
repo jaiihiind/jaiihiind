@@ -2,13 +2,13 @@
 <br>
 
 <h1 align="center">Hi 👋, I'm Rishav Ray</h1>
-<h2 align="center">A passionate Defence Aspirant from India</h2>
+<h2 align="center">A passionate B.Tech student from India</h2>
 <img align="right" alt="Coding" width="400" src="https://www.capgemini.com/au-en/wp-content/uploads/sites/9/2019/06/AI-and-ML.gif">
 
 
 - 🔭 I’m currently working on **Competitive Programming**
 
-- 🌱 I’m currently learning **C P , AI-ML & Web Dev.**
+- 🌱 I’m currently learning **Android Development**
 
 - 👯 I’m looking to collaborate on **cp**
 
