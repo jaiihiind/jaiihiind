@@ -2,7 +2,7 @@
 
 
 <h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&width=435&lines=Hello+Hindustan+!;I+am+Rishav+.+.+.;%22You+become+what+you+Believe+%22" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&pause=1000&width=435&lines=Hello+Hindustan+!;I+am+Rishav+.+.+.;%22You+become+what+you+Believe+%22;Jai+Hind+!" alt="Typing SVG" /></a>
 </h1>
 
 
@@ -14,11 +14,11 @@
 
 - 🌱 I’m currently learning **Android Development**
 
-- 👯 I’m looking to collaborate on **cp**
+- 👯 I’m looking to collaborate on **C P **
 
 - 🤝 I’m looking for help with **problem solving**
 
-- 💬 Ask me about **Defence news, badminton , Cross-country races**
+- 💬 Ask me about **Becoming Unstoppable**
 
 - 📫 How to reach me **rishavray05@gmail.com**
 
