@@ -43,16 +43,18 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaiihiind&" alt="jaiihiind" /></p>
-  </p>
+
 
 
 <h2 align="center">
   My Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
 </h2>
+  
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaiihiind&" alt="jaiihiind" /></p>
+  </p>
+  
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaiihiind&show_icons=true&locale=en&layout=compact" alt="jaiihiind" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jaiihiind&show_icons=true" alt="SaruarChy" /></p>
 
-<p align="center">
-  <img src="https://github.com/jaiihiind/jaiihiind/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
+
