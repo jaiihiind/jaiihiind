@@ -46,10 +46,14 @@
   My Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
 </h2>
  <br>
+  
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaiihiind&" alt="jaiihiind" /></p>
   </p>
   <br>
+  <br>
+  
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaiihiind&show_icons=true&locale=en&layout=compact" alt="jaiihiind" /></p>
+<br>
 <br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jaiihiind&show_icons=true" alt="SaruarChy" /></p>
 
