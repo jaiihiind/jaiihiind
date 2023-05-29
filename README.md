@@ -53,15 +53,13 @@
  
   
 <br>
-<p align="left">
-  <[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)>
-  
-</p>
   <br>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaiihiind&show_icons=true&locale=en&layout=compact" alt="jaiihiind" /></p>
+  
+  <p><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jaiihiind&theme=dark&card_width=497" alt="GitHub Streak"></a></p>
+
 <br>
 <br>
 <p><img align="top" src="https://github-readme-stats.vercel.app/api?username=jaiihiind&show_icons=true" alt="SaruarChy" /></p>
 <br>
 
-img src="https://streak-stats.demolab.com?user=jaiihiind&theme=Vision" /
+
